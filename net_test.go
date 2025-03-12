@@ -11,7 +11,7 @@ import (
 )
 
 func init() {
-	rand.Seed(time.Now().Unix())
+	rand.New(rand.NewSource(time.Now().UnixNano()))
 }
 
 // TestNet uses the nettest package to test that pwn.Conn works
