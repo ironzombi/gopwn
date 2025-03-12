@@ -1,5 +1,5 @@
-# **Abandoned**
-I don't really feel like working on this, feel free to fork/do whatever you want with it! i might end up making a utility library with some functions i like (readUntil) but for now i'm not working on this.
+# **Go Pwn toolz**
+Original project abandoned
 
 
 # pwntools for go!
